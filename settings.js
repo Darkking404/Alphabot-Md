@@ -18,9 +18,9 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read message
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = false
+global.userRegister = true
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -32,17 +32,17 @@ global.language = english //change indonesia to english if you don't understand 
 // Other
 // Other
 global.botname = "Alphabot-Md" //namabot kalian
-global.ownername = "sandaru" //nama kalian
-global.myweb = "https://s.id/BOTGITHUB" //bebas asal jan hapus
-global.youtube = "https://youtube.com/@sandaru12" //bebas asal jan hapus
-global.myweb2 = "https://s.id/BOTGITHUB" //bebas
-global.email = "mdsandaru2@gmail.com" //bebas
-global.region = "Buddhist" //bebas
-global.timezone = 'Asia/Colombo' //  timezone wib
-global.premium = ['94764497078'] //premium user
-global.owner = ["764497078", "94764497078"] //ganti agar fitur owner bisa di gunakan
+global.ownername = "Team Zero One" //nama kalian
+global.myweb = "https://t.me/Dark00788" //bebas asal jan hapus
+global.youtube = "" //bebas asal jan hapus
+global.myweb2 = "" //bebas
+global.email = "Team.zero.and.one.k.k@gmail.com" //bebas
+global.region = "Pakistan" //bebas
+global.timezone = 'Asia/Karachi' //  timezone wib
+global.premium = ['3189238945'] //premium user
+global.owner = ["3189238945", "923189238945"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "764497078" // nomor wa kalian
-global.ownernomerr = "+94764497078" //nmr wa kalian
+global.ownernomerr = "+923189238945" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
